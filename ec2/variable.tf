@@ -3,7 +3,7 @@ variable "ami_id" {
 }
 
 variable "instance_type" {
-    default = "t2.micro"
+    default = "t4.micro"
 }
 
 variable "sg_id" {
