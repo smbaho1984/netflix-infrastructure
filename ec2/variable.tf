@@ -7,4 +7,5 @@ variable "instance_type" {
 }
 
 variable "sg_id" {
+    defaut = "sg-08c5d7076572d3d26"
 }
